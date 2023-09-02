@@ -23,9 +23,11 @@ export const UserName = styled.p({
   lineHeight: '140%',
   fontWeight: '700',
 });
+
 export const UserTag = styled.p({
   color: '#8b857e',
 });
+
 export const UserLocation = styled.p({
   color: '#8b857e',
 });
@@ -58,6 +60,7 @@ export const StatLabel = styled.span({
   color: '#99918f',
   fontWeight: '300',
 });
+
 export const StatQuantity = styled.span({
   fontWeight: '700',
 });

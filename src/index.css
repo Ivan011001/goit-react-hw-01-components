@@ -8,9 +8,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: floralwhite;
   margin: 0;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
 }
 
 code {
